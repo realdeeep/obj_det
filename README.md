@@ -41,6 +41,3 @@ This project aims to detect and recognize American Sign Language gestures in rea
 
 ## Credits
 - The Sign Language MNIST dataset is used for training. Dataset source: [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
