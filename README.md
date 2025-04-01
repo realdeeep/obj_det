@@ -6,7 +6,7 @@ This project aims to detect and recognize American Sign Language gestures in rea
 
 1. **Training the CNN Model:** A Jupyter Notebook (`main1.ipynb`) is provided to train a CNN model on the Sign Language MNIST dataset. The notebook covers data preprocessing, model building, training, and saving the trained model.
 
-2. **Live Gesture Detection:** An OpenCV-based Python script (`live_detect.py`) utilizes the trained CNN model to perform live sign language gesture detection through your computer's webcam.
+2. **Live Gesture Detection:** An OpenCV-based Python script (`live_detect.py`) utilizes the trained CNN model to perform live sign language gesture detection through the computer's webcam.
 
 ## CNN Model Training
 
