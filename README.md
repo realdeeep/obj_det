@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to detect and recognize American Sign Language gestures in real-time using a Convolutional Neural Network (CNN). The project consists of two main components: 
+This project aims to detect and recognize American Sign Language gestures (ASL) in real-time using a Convolutional Neural Network (CNN). The project consists of two main components: 
 
 1. **Training the CNN Model:** A Jupyter Notebook (`main1.ipynb`) is provided to train a CNN model on the Sign Language MNIST dataset. The notebook covers data preprocessing, model building, training, and saving the trained model.
 
